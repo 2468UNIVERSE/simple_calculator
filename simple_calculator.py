@@ -67,3 +67,4 @@ def perfoming_calculation():
 name = input("Enter your name: ")
 print(f"Hi! {name}, Welcome to the Simple Calculator. ")
 perfoming_calculation()
+print("my name is sakshi manderwal")
